@@ -1,12 +1,12 @@
-![info](https://github-readme-stats.vercel.app/api?username=Natsusomekeishi&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyancatda&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyancatda&layout=compact&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Natsusomekeishi&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsusomekeishi&layout=compact&langs_count=8" />
 
  ### Hi there 👋
 
-- 🌱 正在努力学习Python和Golang
-- 📫 How to reach me: nyancatda@outlook.com
-- ✈ https://t.me/NyanCatda
+- 🌱 师父 @Nyancatda 
+- 📫 How to reach me: hello@keishi.cn（暂时失联）
+- ✈ https://t.me/natsusome
+- 
 <!--
 Here are some ideas to get you started:
 
