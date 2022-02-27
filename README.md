@@ -1,10 +1,7 @@
 ### 高强度使用Github中 ❤️
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Natsusomekeishi&show_icons=true" />
-
-### 努力成为一个不fork的人 🤣
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsusomekeishi&layout=compact&langs_count=8" />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Natsusomekeishi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsusomekeishi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
  ### Hi there 👋
 
