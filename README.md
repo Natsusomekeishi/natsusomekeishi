@@ -3,7 +3,7 @@
 
  ### Hi there 👋
 
-- 🌱 师父 @Nyancatda 
+- 🌱 师父 [@NyanCatda](https://github.com/nyancatda) [@Seiry Yu](https://github.com/seiry)
 - 📫 How to reach me: hello@keishi.cn（暂时失联）
 - ✈ https://t.me/natsusome
 
