@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 
 ### 🌱 Teacher > [@NyanCatda](https://github.com/nyancatda) [@Seiry Yu](https://github.com/seiry)
-### 📫 How to reach me > hello@keishi.cn（暂时失联）
+### 📫 E-mail > hello@keishi.cn（暂时失联）
 ### ✈ TG > https://t.me/natsusome
 
 <!--
