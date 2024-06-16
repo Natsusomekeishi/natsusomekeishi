@@ -5,7 +5,6 @@
 
 ### 🌱 Teacher > [@NyanCatda](https://github.com/nyancatda) [@Seiry Yu](https://github.com/seiry)
 ### 📫 E-mail > hello@keishi.cn（请注明意图）
-### ✈ TG > https://t.me/natsusome
 
 <!--
 Here are some ideas to get you started:
